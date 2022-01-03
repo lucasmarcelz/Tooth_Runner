@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 
-public class mensagem : MonoBehaviour{
+public class Mensagem : MonoBehaviour{
 
     public Text texto;
     [Range(0.1f, 10.0f)] public float distancia = 3;
