@@ -15,6 +15,7 @@ public class Menu : MonoBehaviour
         Derrota.tempoCabou = false;
         Vitoria.contagem = 5f;
         Derrota.contagem = 5f;
+        ItemJogador.quantItem = 0;
     }
 
     // Update is called once per frame
